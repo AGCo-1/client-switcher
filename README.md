@@ -6,7 +6,7 @@ The code is open source and available for CLI (terminal).
 
 ### CLIENT SWITCHER (CLI):
 
-## Install Unstructions:
+## Install Instructions:
 
 There are two ways to install.
 
