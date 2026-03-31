@@ -14,23 +14,23 @@ To begin installation, paste the following commands into the terminal:
 
 **Clone the client-switcher repo:**
 
-`git clone https://github.com/agco-1/client-switcher.git`
+`git clone https://github.com/agco-1/client-switcher.git && cd client-switcher`
 
 ### Run Client Switcher:
 
 **Note**: Choose either GUI (popup window) or CLI (in terminal)
 
-**GUI Installation (Execution clients only):**
+**GUI — Execution clients only:**
 
-`python3 client-switcher/client_switcher_gui.py`
+`python3 client_switcher_gui.py`
 
-**GUI Installation (Execution + Consensus clients, MEV Boost, Validator settings):**
+**GUI — Execution + Consensus clients, MEV Boost, Validator settings:**
 
-`python3 client-switcher/client_switcher_max.py`
+`python3 client_switcher_max.py`
 
-or **CLI Installation:**
+**CLI:**
 
-`python3 client-switcher/client_switcher_cli.py`
+`python3 client_switcher_cli.py`
 
 ### Installation Screen:
 Select the Ethereum network, client to delete, client to install, then click "Install".
