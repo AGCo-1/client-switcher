@@ -5,10 +5,10 @@ Ethereum client switcher allows validators to easily switch their execution clie
 The code is open source and available for both CLI (terminal) and GUI to commodate various setups and preferences.
 
 ### CLIENT SWITCHER (GUI):
-![Screenshot from 2024-01-23 11-35-14](https://github.com/accidental-green/client-switcher/assets/72235883/f26e0138-06ea-4894-a595-b11245cb54ea)
+![Screenshot from 2024-01-23 11-35-14](https://github.com/AGCo-1/client-switcher/assets/72235883/f26e0138-06ea-4894-a595-b11245cb54ea)
 
 ### CLIENT SWITCHER (CLI):
-![Screenshot from 2024-01-23 21-50-08](https://github.com/accidental-green/client-switcher/assets/72235883/9f6cfa50-ed37-45df-a3aa-f28717c19264)
+![Screenshot from 2024-01-23 21-50-08](https://github.com/AGCo-1/client-switcher/assets/72235883/9f6cfa50-ed37-45df-a3aa-f28717c19264)
 
 
 ## Instructions:
@@ -21,7 +21,7 @@ To begin installation, paste the following commands into the terminal:
 
 **Clone the client-switcher repo:**
 
-`git clone https://github.com/accidental-green/client-switcher.git`
+`git clone https://github.com/AGCo-1/client-switcher.git`
 
 ### Run Client Switcher:
 
@@ -38,12 +38,12 @@ or **CLI Installation:**
 ### Installation Screen:
 Select the Ethereum network, client to delete, client to install, then click "Install".
 
-![Screenshot from 2024-01-23 11-35-14](https://github.com/accidental-green/client-switcher/assets/72235883/f26e0138-06ea-4894-a595-b11245cb54ea)
+![Screenshot from 2024-01-23 11-35-14](https://github.com/AGCo-1/client-switcher/assets/72235883/f26e0138-06ea-4894-a595-b11245cb54ea)
 
 The script will delete all old client data, install the new client, and create service files, usernames, directories etc
 
 ### Sucessful Install Screen:
-![Screenshot from 2024-01-23 21-51-08](https://github.com/accidental-green/client-switcher/assets/72235883/f121a02e-74ae-4538-8017-d1e2c996b678)
+![Screenshot from 2024-01-23 21-51-08](https://github.com/AGCo-1/client-switcher/assets/72235883/f121a02e-74ae-4538-8017-d1e2c996b678)
 
 
 Once installation has finished, you can start the new client and begin syncing.
@@ -54,9 +54,9 @@ This project has not been audited yet, but working to make that happen soon.
 
 **Other Ethereum related repos:**
 
-[Validator Install](https://github.com/accidental-green/validator-install): Fresh Ubunutu to syncing validator in minutes
+[Validator Install](https://github.com/AGCo-1/validator-install): Fresh Ubunutu to syncing validator in minutes
 
-[Validator Updater](https://github.com/accidental-green/validator-updater): Instantly update clients (Execution, Consensus, and Mevboost)
+[Validator Updater](https://github.com/AGCo-1/validator-updater): Instantly update clients (Execution, Consensus, and Mevboost)
 
-[Validator Controller](https://github.com/accidental-green/validator-controller)
+[Validator Controller](https://github.com/AGCo-1/validator-controller)
 : Easily control the validator with a single click (start, stop, journals, service files)
